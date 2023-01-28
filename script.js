@@ -10,3 +10,4 @@ function getPassword(){
     document.getElementsByClassName("password").value = password;
 }
 getPassword();
+
